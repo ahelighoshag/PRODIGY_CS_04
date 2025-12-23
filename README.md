@@ -1,6 +1,6 @@
 
 
-📁 PRODIGY_CS_04 – Simple Keylogger (Educational Purpose)
+📁 PRODIGY_CS_04 – Simple Keylogger 
 
 <br/>
 📌 Project Title
@@ -35,10 +35,6 @@ key_log.txt – File where keystrokes are saved
 ▶️ How to Run
 python keylogger.py
 
-⚠️ Disclaimer
-
-This project is intended only for educational purposes.
-Unauthorized use of keyloggers is illegal and unethical.
 
 🎯 Learning Outcome
 
